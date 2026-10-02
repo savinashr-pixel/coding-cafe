@@ -1,0 +1,16 @@
+  935  ./school
+  936  ./test3
+  937  man ls
+  938  cd coding-cafe/week01/clear
+  939  clear
+  940  history
+  941  clear
+  942  clear
+  943  history
+  944  clear
+  945  python3
+  946  clear
+  947  python3
+  948  clear
+  949  cd coding cafe
+  950  cd coding-cafe
